@@ -1,2 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+mono-langue_amazon_dataset.csv filter=lfs diff=lfs merge=lfs -text
+multilingual_amazon_dataset_2.csv filter=lfs diff=lfs merge=lfs -text
 Datasets/mono-langue_amazon_dataset.csv filter=lfs diff=lfs merge=lfs -text
