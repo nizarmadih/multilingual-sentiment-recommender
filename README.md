@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛍️ Amazon Reviews Text Mining & Hybrid Recommender
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
@@ -119,3 +120,7 @@ nltk.download(['stopwords', 'punkt', 'wordnet'])
 ## 📜 License
 
 MIT License — free for academic and educational use.
+=======
+# multilingual-sentiment-recommender
+Monolingual &amp; Multilingual sentiment analysis, topic modeling (LDA vs. BERTopic), and an explainable hybrid recommendation engine on 12k Amazon reviews.
+>>>>>>> c9956bb88174e50ba80aac102e87372a26a86fb0
